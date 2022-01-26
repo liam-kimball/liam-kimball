@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-kimball&title_color=9da5b4&text_color=c9d1d9&bg_color=242938&hide_border=true&border_radius=25&layout=compact" alt="Most Used Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liam-kimball&title_color=9da5b4&text_color=c9d1d9&bg_color=2b3137&hide_border=true&border_radius=25&layout=compact" alt="Most Used Languages">
 </p>
